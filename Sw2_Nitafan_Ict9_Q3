@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>
+		SW2
+	</title>
+	<style>
+        div {
+            border-style: solid;
+        }
+    </style>
+</head>
+<body style="background-color:powderblue;">
+
+	<div class="row">
+        <div class="col-xl-6 bg-primary">.</div>
+        <div class="col-xl-6 bg-success">.</div>
+    </div>
+   <table>
+   	<tr>
+   		<td><img src="https://images.thedirect.com/media/article_full/avatar-way-of-water-lego-disney.jpg?imgeng=cmpr_75/" width="800" height="600"></td>
+   		<td><h1>Avatar: The Way of Water</h1></td>
+   	</tr>
+   </table>
+   <div class="row">
+        <div class="col-xl-6 bg-primary">.</div>
+        <div class="col-xl-6 bg-success">.</div>
+    </div>
+   <div class="row">
+        <div class="col-xl-6 bg-danger">.</div>
+        <div class="col-xl-6 bg-warning">.</div>
+    </div>
+    <table>
+   	<tr>
+   		<td><img src="https://imageio.forbes.com/blogs-images/alishagrauso/files/2016/05/Iron-Man-Robert-Downey-Jr-Interview-1200x600.jpg?format=jpg&width=960"width="800" height="600"></td>
+   		<td><h1>Iron Man</h1></td>
+   	</tr>
+   </table>
+   <div class="row">
+        <div class="col-xl-6 bg-danger">.</div>
+        <div class="col-xl-6 bg-warning">.</div>
+    </div>
+    <div class="row">
+        <div class="col-xl-6 bg-dark">.</div>
+        <div class="col-xl-6 bg-danger">.</div>
+    </div>
+    <table>
+    	 <tr>
+    	 	<td><img src="https://cdn.mos.cms.futurecdn.net/KPSaFSVPFNhKmvstEfXUt5-970-80.jpg.webp" width="800" height="600"></td>
+    	 	<td><h1>Black Panther</h1></td>
+    	 </tr>
+    </table>
+    <div class="row">
+        <div class="col-xl-6 bg-dark">.</div>
+        <div class="col-xl-6 bg-danger">.</div>
+    </div>
+    <div class="row">
+        <div class="col-xl-6 bg-dark">.</div>
+        <div class="col-xl-6 bg-white text-white">.</div>
+    </div>
+    <table>
+    	<tr>
+    	 	<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpdaIq60iCzv_YDtMAsc77TWWPfIiDSpjrA&usqp=CAU" width="800" height="600"></td>
+    	 	<td><h1>Venom</h1></td>
+    	 </tr>
+    </table>
+     <div class="row">
+        <div class="col-xl-6 bg-dark">.</div>
+        <div class="col-xl-6 bg-white text-white">.</div>
+    </div> <div class="row">
+        <div class="col-xl-6 bg-success">.</div>
+        <div class="col-xl-6 bg-success">.</div>
+    </div>
+    <table>
+    	<tr>
+    	 	<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdXIqV_nPPxdSYIuy0blx-frhV4fCQFP57Q&usqp=CAU" width="800"height="600"></td>
+    	 	<td><h1>Kermit</h1></td>
+    	 </tr>
+    </table>
+     </div> <div class="row">
+        <div class="col-xl-6 bg-success">.</div>
+        <div class="col-xl-6 bg-success">.</div>
+    </div>
+</body>
+</html>
